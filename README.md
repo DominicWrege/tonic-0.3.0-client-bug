@@ -1,15 +1,15 @@
-## HOW TO
+## Steps To Reproduce
 
 1. Run Sever
 2. Run Client
 
-### 1. Server
+### Server
 
 ```bash
 $ cargo run --bin helloworld-server
 ```
 
-### 1. Client
+### Client
 
 ```bash
 $ cargo run --bin helloworld-client
