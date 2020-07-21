@@ -1,6 +1,6 @@
 ## Steps To Reproduce
 
-1. Run Sever
+1. Run Server
 2. Run Client
 
 ### Server
